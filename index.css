@@ -1,0 +1,555 @@
+body, html{
+    margin: 0px;
+    padding:0px;
+    overflow-x: hidden;
+}
+
+
+.selector-for-some-widget {
+    box-sizing: content-box;
+  
+}
+li{
+    margin-left: 60px !important;
+
+}
+  #pi{
+      background-color: black !important;
+}
+.home-dropdown {
+    background-color: black !important;
+}
+.z{
+    background-color: green;
+}
+
+a{
+    color: white !important;
+    
+}
+.dropdown-menu:hover{
+    background-color: black !important;
+    color: red !important;
+}
+li{
+    padding: 14px !important;
+}
+
+ .pi:hover{
+    background-color: red !important;
+    border-radius: 10px !important;
+ }
+ .Obong{
+     position: absolute;
+     color: white;
+     margin-left: 400px;
+     /* font-size: calc(2.5em + 2.5vw); */
+     font-size: 100px;
+     padding-top: 30px;
+ }
+ .Obong1{
+     position: absolute;
+     color: green;
+     /* font-size: calc(3em + 3vw); */
+     font-size: 100px;
+     padding-top: 140px;
+     margin-left: 300px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ .obng{
+     position: absolute !important;
+     margin-top: -30px;
+ }
+.bts{
+    display: inline-block;
+    background: green;
+    padding: 0px 40px;
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 48px;
+    border-radius: 0px;
+    text-align: center;
+    border: 1px solid green;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 300px;
+    margin-left: 570px;
+    text-decoration: none !important;
+    list-style-type: none;
+}
+.chk{
+    height: 2px !important;
+}
+.bts:hover{
+    background: transparent;
+    color: green;
+}
+.news{
+    padding-top: 20px;
+}
+.tip{
+    text-align: center;
+    font-size: 25px !important;
+}
+.tip1{
+    font-size: 20px;
+    color: green;
+    padding-top: 10px;
+    text-align: center;
+}
+#tip1{
+    padding-top: 30px;
+}
+.fac{
+    padding-top: 20px;
+}
+#faculty{
+    background: rgb(245, 248, 245);
+    margin-top: 100px;
+    
+}
+.dep{
+    font-size:30px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    color: rgb(243, 0, 0);
+}
+.q
+{
+    padding: 15px !important;
+
+}
+ .will2, .will3{
+    position: relative;
+    border-radius: 100px;
+    margin-left: 89px;
+    margin-bottom: 20px;
+}
+.will4{
+    position: relative;
+    border-radius: 100px;
+    /* margin-left: 70px; */
+    margin-bottom: 20px;
+}
+.will1{
+    position: relative;
+    border-radius: 100px;
+    margin-bottom: 20px;
+    margin-left: 70px;
+    
+
+}
+
+.will1,.will2,.will3,.will4:hover{
+       opacity: 1;
+       color: green;
+       
+}
+.b{ 
+    background-color: green;
+    height: 50px !important;
+}
+
+.slider{
+    margin-top: 90px;
+    position: relative;
+}
+.facu{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+}
+.dep:hover{
+    color: green;
+    cursor: pointer;
+    border-radius: 100px;
+}
+.list{
+    text-decoration: none !important;
+    color: black !important;
+    font-size: 20px;
+    text-align: center !important;
+    /* margin-left: 10px !important; */
+}
+.list:hover {
+    color:rgba(255, 4, 4, 0.788) !important;
+}
+
+.zz
+{
+    background-color: green;
+}
+.about{
+    background-color: rgba(146, 216, 146, 0.603);
+    height: 100%;
+}
+.k{
+    padding-top: 70px;
+}
+.w{
+    padding-top: 35px;
+    padding-bottom: 20px;
+
+}
+.l{
+    background-color: rgb(70, 68, 68); 
+}
+.o{
+    color: white;
+}
+.blk{
+    transition: 1s;
+}
+.blk:hover{
+    transform: translateY(-90px);
+}
+.os{
+    color:white;
+    position: absolute;
+    margin-left: 70px;
+    margin-top: -55px;
+}
+.fin{
+    background-color: green;
+    width: cover;
+}
+.ft{
+    color: white;
+    padding-top: 5px;
+}
+.s1{
+    padding-left: 90px;
+    color: black;
+    height: 30px;
+    padding-top: 5px;
+}
+.Rm{
+    background-color: rgb(197, 13, 13);
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+.s1:hover{
+    color: white;
+}
+.about{
+    background-image: linear-gradient(rgb(10,10,10,0.8),rgb(10,10,10,0.8),rgb(10,10,10,0.8)), url(images/admin.jpg);
+    background-size: cover;
+    height: 400px;
+}
+.abt{
+    margin-top: 120px;
+}
+.abt1{
+    /* margin-top: 50px; */
+    margin-left: 40%;
+}
+.under{
+    margin-top: 50px;
+}
+.under2{
+        background-image: linear-gradient(rgb(10,10,10,0.8),rgb(10,10,10,0.8),rgb(10,10,10,0.8)), url(images/top\ image.jpg);
+        background-size: cover;
+        height: 500px;
+        margin-top: 80px;
+}
+.un{
+    text-align: center !important;
+}
+.un1{
+    margin-left: 360px;
+    padding-top: 60px;
+}
+.ap{
+    color: green !important;
+    font-size: 25px !important;
+}
+.application{
+    margin-top: 200px;
+}
+.ap1{
+    font-size: 25px;
+    color: green;
+}
+.api{
+    margin-left: 70px;
+}
+legend{
+    color: green;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+select{
+    width: 400px;
+    height: 50px;
+    border-radius: 10px;
+    color: red;
+    font-size: 20px;
+    font-family:  monospace;
+}
+input{
+    width: 400px;
+    height: 50px;
+    border-radius: 10px;
+    color:green;
+    font-size: 20px;
+    font-family:  monospace;
+}
+.note{
+    line-height: 50px;
+}
+.fm{
+    margin-left: 60px;  
+}
+#basicstudies{
+    margin-top: 60px;
+}
+.basic{
+    margin-left: 20px;
+}
+.basic1{
+    margin-left: 10px;
+    color: green;
+}
+.basic2{
+    margin-left: 20px
+}
+.basic3{
+    margin-left: 20px;
+    color: green;
+    font-size: 20px;
+}
+.h1{
+    text-align: center !important;
+    color: rgb(253, 5, 5);
+    font-family:Tahoma, Verdana;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .Obong1{
+        position: absolute;
+        color: green;
+        font-size: 300%;
+        margin-left: 70px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        margin-top: -40px;
+    }
+    .Obong{
+        /* position: absolute; */
+        color: white;
+        margin-left: 110px;
+        font-size: 50px;
+        padding-top: 30px;
+    }
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .Obong1{
+        position: absolute;
+        color: green;
+        font-size: 300%;
+        margin-left: 70px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        margin-top: -40px;
+    }
+    .Obong{
+        /* position: absolute; */
+        color: white;
+        margin-left: 110px;
+        font-size: 50px;
+        padding-top: 30px;
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .Obong1{
+        position: absolute;
+        color: green;
+        font-size: 300%;
+        margin-left: 70px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        margin-top: -40px;
+    }
+    .Obong{
+        /* position: absolute; */
+        color: white;
+        margin-left: 110px;
+        font-size: 50px;
+        padding-top: 30px;
+}
+ /* Extra small devices (phones, 600px and down) */
+ @media only screen and (max-width: 600px) 
+ {
+    .bts{
+        display: inline-block;
+        background: green;
+        padding: 0px 40px;
+        color: #fff;
+        font-family: "Roboto", sans-serif;
+        font-size: 13px;
+        font-weight: 500;
+        line-height: 48px;
+        border-radius: 0px;
+        text-align: center;
+        border: 1px solid green;
+        cursor: pointer;
+        border-radius: 5px;
+        padding-top: 90px;
+        margin-left: 70px;
+        text-decoration: none;
+        list-style-type: none;
+ }
+
+ /* Small devices (portrait tablets and large phones, 600px and up) */
+ @media only screen and (min-width: 600px) 
+ {
+    .bts{
+        display: inline-block;
+        background: green;
+        padding: 0px 40px;
+        color: #fff;
+        font-family: "Roboto", sans-serif;
+        font-size: 13px;
+        font-weight: 500;
+        line-height: 48px;
+        border-radius: 0px;
+        text-align: center;
+        border: 1px solid green;
+        cursor: pointer;
+        border-radius: 5px;
+        padding-top: 90px;
+        margin-left: 70px;
+        text-decoration: none;
+        list-style-type: none;
+ }
+ 
+ /* Medium devices (landscape tablets, 768px and up) */
+ @media only screen and (min-width: 768px) 
+ {
+    .bts{
+        display: inline-block;
+        background: green;
+        padding: 0px 40px;
+        color: #fff;
+        font-family: "Roboto", sans-serif;
+        font-size: 13px;
+        font-weight: 500;
+        line-height: 48px;
+        border-radius: 0px;
+        text-align: center;
+        border: 1px solid green;
+        cursor: pointer;
+        border-radius: 5px;
+        padding-top: 90px;
+        margin-left: 70px;
+        text-decoration: none;
+        list-style-type: none;
+ }
+ 
+ /* Large devices (laptops/desktops, 992px and up) */
+ @media only screen and (min-width: 992px) 
+ {
+    .bts{
+        display: inline-block;
+        background: green;
+        padding: 0px 40px;
+        color: #fff;
+        font-family: "Roboto", sans-serif;
+        font-size: 13px;
+        font-weight: 500;
+        line-height: 48px;
+        border-radius: 0px;
+        text-align: center;
+        border: 1px solid green;
+        cursor: pointer;
+        border-radius: 5px;
+        padding-top: 90px;
+        margin-left: 70px;
+        text-decoration: none;
+        list-style-type: none;
+ }
+ 
+ /* Extra large devices (large laptops and desktops, 1200px and up) */
+ @media only screen and (min-width: 1200px) 
+ {
+    .bts{
+        display: inline-block;
+        background: green;
+        padding: 0px 40px;
+        color: #fff;
+        font-family: "Roboto", sans-serif;
+        font-size: 13px;
+        font-weight: 500;
+        line-height: 48px;
+        border-radius: 0px;
+        text-align: center;
+        border: 1px solid green;
+        cursor: pointer;
+        border-radius: 5px;
+        padding-top: 90px;
+        margin-left: 70px;
+        text-decoration: none;
+        list-style-type: none;
+    }
+ }
+
+ }
+}
+ }
+}
+}
+}
+}
